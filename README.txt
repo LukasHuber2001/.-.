@@ -1,1 +1,2 @@
-Hello World!
+en:Hello World!
+de:Hallo Welt!
